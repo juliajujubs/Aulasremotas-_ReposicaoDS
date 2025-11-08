@@ -23,6 +23,4 @@ Organizar e disponibilizar as atividades desenvolvidas para estudo, consulta e e
 * Todas as atividades foram feitas no dia de reposição.
 * Podem ser atualizadas conforme orientação da professora.
 
----
 
-Se precisar de ajuda para rodar algum código ou entender as atividades, é só pedir! 😊
